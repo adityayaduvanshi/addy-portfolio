@@ -1,3 +1,3 @@
 # addy-portfolio
 
-Live link - www.theaditya.netlify.app
+Live link - https://theaditya.netlify.app/
