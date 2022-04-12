@@ -1,4 +1,3 @@
-/*==================== GOOGLE FONTS ====================*/
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 
@@ -96,7 +95,7 @@ body.dark-theme {
 .change-theme:hover {
   color: var(--first-color);
 }
-/*==================== BASE ====================*/
+
 * {
   box-sizing: border-box;
   padding: 0;
