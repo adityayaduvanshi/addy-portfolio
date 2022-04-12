@@ -17,6 +17,7 @@ Tools: VS Code, Swiper, Iconscout
 
 ## Screenshot 
 
+![screenshot](portfolio-sc.png)
 
 
 
