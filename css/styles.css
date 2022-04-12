@@ -25,7 +25,7 @@
   /*========== Font and typography ==========*/
   --body-font: "Poppins", sans-serif;
 
-  /* .5rem = 8px, 1rem = 16px, 1.5rem = 24px ... */
+  
   --big-font-size: 2rem;
   --h1-font-size: 1.5rem;
   --h2-font-size: 1.25rem;
@@ -38,8 +38,7 @@
   --font-medium: 500;
   --font-semi-bold: 600;
 
-  /*========== Margenes Bottom ==========*/
-  /* .25rem = 4px, .5rem = 8px, .75rem = 12px ... */
+
   --mb-0-25: 0.25rem;
   --mb-0-5: 0.5rem;
   --mb-0-75: 0.75rem;
@@ -710,11 +709,7 @@ img {
   justify-self: center;
 }
 
-/*==================== PROJECT IN MIND ====================*/
 
-/*==================== TESTIMONIAL ====================*/
-
-/*==================== CONTACT ME ====================*/
 
 .contact__container {
   row-gap: 3rem;
